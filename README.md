@@ -1,3 +1,5 @@
+The repository consists of all questions (pdf) with their solutions written in CPP. 
+
 # My First Tegathon Experience
 
 Every year, COMSATS University Islamabad, Sahiwal Campus hosts an exciting event known as the **Tegathon**. As a first-year student, this year's Tegathon was my first opportunity to participate in the event, and I was particularly excited about the **Coding Muqabala** (Muqabala means Competition), which is the main and my most favorite event of the Tegathon.
